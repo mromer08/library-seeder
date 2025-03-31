@@ -2556,4 +2556,1042 @@
     "status": "PUBLISH",
     "authors": ["Timothy Perrett"],
     "categories": ["Java"]
-}]
+}, {
+    "_id": 254,
+    "title": "Web Development with Apache and Perl",
+    "isbn": "1930110065",
+    "pageCount": 424,
+    "publishedDate": {
+        "$date": "2002-04-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/petersen.jpg",
+    "longDescription": "Open source tools provide a powerful and flexible environment for web development and maintenance. If your site has complex business rules or server logic, then you need more than just an interface builder. You need a strong application language with effective tools ready at hand. Perl's strengths make it a natural choice.    Did you know you can easily build a site with features like message forums, chat, session management, custom preferences and other features your users will love  This book shows you how. But it is more than a programming book. It covers a wide spectrum of practical issues and how to handle them, such as when to use a database, what information needs to be secure (and how to secure it), and how to keep traffic from crippling your site. It will teach you the empowering use of ready-made modules so you don't have to reinvent the wheel. And it will even teach you how to successfully advocate the use of Open Source tools in your company.",
+    "status": "PUBLISH",
+    "authors": ["Theo Petersen"],
+    "categories": ["Perl", "Client-Server"]
+}, {
+    "_id": 255,
+    "title": "Real-World Functional Programming",
+    "isbn": "1933988924",
+    "pageCount": 560,
+    "publishedDate": {
+        "$date": "2009-12-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/petricek.jpg",
+    "shortDescription": "This book teaches the ideas and techniques of functional programming applied to real-world problems. You'll see how the functional way of thinking changes the game for .NET developers. Then, you'll tackle common issues using a functional approach. The book will also teach you the basics of the F# language and extend your C# skills into the functional domain. No prior experience with functional programming or F# is required.",
+    "longDescription": "Functional programming languages are good at expressing complex ideas in a succinct, declarative way. Functional concepts such as \"immutability\" and \"function values\" make it easier to reason about code   as well as helping with concurrency. The new F# language, LINQ, certain new features of C#, and numerous .NET libraries now bring the power of functional programming to .NET coders.    This book teaches the ideas and techniques of functional programming applied to real-world problems. You'll see how the functional way of thinking changes the game for .NET developers. Then, you'll tackle common issues using a functional approach. The book will also teach you the basics of the F# language and extend your C# skills into the functional domain. No prior experience with functional programming or F# is required.    WHAT'S INSIDE:        * Thinking the functional way      * Blending OO and functional programming      * Effective F# code",
+    "status": "PUBLISH",
+    "authors": ["Tomas Petricek with Jon Skeet"],
+    "categories": ["Microsoft .NET"]
+}, {
+    "_id": 256,
+    "title": "Machine Learning in Action",
+    "isbn": "1617290181",
+    "pageCount": 0,
+    "publishedDate": {
+        "$date": "2012-04-04T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/pharrington.jpg",
+    "shortDescription": "Machine Learning in Action is a unique book that blends the foundational theories of machine learning with the practical realities of building tools for everyday data analysis. In it, you'll use the flexible Python programming language to build programs that implement algorithms for data classification, forecasting, recommendations, and higher-level features like summarization and simplification.",
+    "longDescription": "It's been said that data is the new \"dirt\"   the raw material from which and on which you build the structures of the modern world. And like dirt, data can seem like a limitless, undifferentiated mass. The ability to take raw data, access it, filter it, process it, visualize it, understand it, and communicate it to others is possibly the most essential business problem for the coming decades.    \"Machine learning,\" the process of automating tasks once considered the domain of highly-trained analysts and mathematicians, is the key to efficiently extracting useful information from this sea of raw data. By implementing the core algorithms of statistical data processing, data analysis, and data visualization as reusable computer code, you can scale your capacity for data analysis well beyond the capabilities of individual knowledge workers.    Machine Learning in Action is a unique book that blends the foundational theories of machine learning with the practical realities of building tools for everyday data analysis. In it, you'll use the flexible Python programming language to build programs that implement algorithms for data classification, forecasting, recommendations, and higher-level features like summarization and simplification.    As you work through the numerous examples, you'll explore key topics like classification, numeric prediction, and clustering. Along the way, you'll be introduced to important established algorithms, such as Apriori, through which you identify association patterns in large datasets and Adaboost, a meta-algorithm that can increase the efficiency of many machine learning tasks.",
+    "status": "PUBLISH",
+    "authors": ["Peter Harrington"],
+    "categories": ["Software Engineering"]
+}, {
+    "_id": 257,
+    "title": "Dependency Injection",
+    "isbn": "193398855X",
+    "pageCount": 352,
+    "publishedDate": {
+        "$date": "2009-08-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/prasanna.jpg",
+    "shortDescription": "   If you do large scale java apps, you probably want to have someone on the team have this book.       Michael Neale",
+    "longDescription": "In object-oriented programming, a central program normally controls other objects in a module, library, or framework. With dependency injection, this pattern is inverted   a reference to a service is placed directly into the object which eases testing and modularity. Spring or Google Guice use dependency injection so you can focus on your core application and let the framework handle infrastructural concerns.    Dependency Injection explores the DI idiom in fine detail, with numerous practical examples that show you the payoffs. You'll apply key techniques in Spring and Guice and learn important pitfalls, corner-cases, and design patterns. Readers need a working knowledge of Java but no prior experience with DI is assumed.",
+    "status": "PUBLISH",
+    "authors": ["Dhanji R. Prasanna"],
+    "categories": ["Microsoft .NET"]
+}, {
+    "_id": 258,
+    "title": "Understanding Enterprise SOA",
+    "isbn": "1932394591",
+    "pageCount": 280,
+    "publishedDate": {
+        "$date": "2005-11-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/pulier.jpg",
+    "shortDescription": "\"SOA is real ... Pulier is uniquely qualified to make [it] accessible to the general business audience.\" - Paul Gaffney, Staples, Inc., From the Foreword",
+    "longDescription": "Understanding Enterprise SOA gives technologists and business people an invaluable and until now missing integrated picture of the issues and their interdependencies. You will learn how to think in a big way, moving confidently between technology- and business-level concerns. Written in a comfortable, mentoring style by two industry insiders, the book draws conclusions from actual experiences of real companies in diverse industries, from manufacturing to genome research. It cuts through vendor hype and shows you what it really takes to get SOA to work.    Intended for both business people and technologists, the book reviews core SOA technologies and uncovers the critical human factors involved in deploying them. You will see how enterprise SOA changes the terrain of EAI, B2B commerce, business process management, \"real time\" operations, and enterprise software development in general.",
+    "status": "PUBLISH",
+    "authors": ["Eric Pulier and Hugh Taylor", "Foreword by Paul Gaffney"],
+    "categories": ["Theory"]
+}, {
+    "_id": 259,
+    "title": "Open-Source ESBs in Action",
+    "isbn": "1933988215",
+    "pageCount": 528,
+    "publishedDate": {
+        "$date": "2008-09-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rademakers.jpg",
+    "longDescription": "The need for enterprise integration is widespread for the simple reason that businesses require independent applications to exchange information with each other. A CRM application must know about the order history of a customer, but that history is stored in the sales application. A technology that companies increasingly use to integrate enterprise applications is the Enterprise Service Bus (ESB).    Open-Source ESBs in Action describes how to use ESBs in real-world situations. You will learn how the various features of an ESB such as transformation, routing, security, connectivity, and more can be implemented on the example of two open-source ESB implementations: Mule and ServiceMix. The authors first introduce ServiceMix and Mule, and then present general principles and patterns of ESB use, as well as a structured approach to solving common integration problems, through examples using them.    Working in integration projects is exciting, with new technologies and paradigms arriving every day. In this area, open source is playing a more and more dominant role with projects such as Mule and ServiceMix. Open-Source ESBs in Action will help you to learn open-source integration technologies quickly and will provide you with knowledge that you can use to effectively work with Mule and ServiceMix.",
+    "status": "PUBLISH",
+    "authors": ["Tijs Rademakers", "Jos Dirksen"],
+    "categories": ["Business"]
+}, {
+    "_id": 260,
+    "title": "Activiti in Action",
+    "isbn": "1617290122",
+    "pageCount": 0,
+    "publishedDate": {
+        "$date": "2012-07-12T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rademakers2.jpg",
+    "status": "PUBLISH",
+    "authors": ["Tijs Rademakers"],
+    "categories": ["Software Engineering"]
+}, {
+    "_id": 261,
+    "title": "DSLs in Boo: Domain-Specific Languages in .NET",
+    "isbn": "1933988606",
+    "pageCount": 352,
+    "publishedDate": {
+        "$date": "2010-01-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rahien.jpg",
+    "shortDescription": "DSLs in Boo shows you how to design, extend, and evolve DSLs for .NET by focusing on approaches and patterns. You learn to define an app in terms that match the domain, and to use Boo to build DSLs that generate efficient executables. And you won't deal with the awkward XML-laden syntax many DSLs require. The book concentrates on writing internal (textual) DSLs that allow easy extensibility of the application and framework. And if you don't know Boo, don't worry   you'll learn right here all the techniques you need.  ",
+    "longDescription": "A general-purpose language like C# is designed to handle all programming tasks. By contrast, the structure and syntax of a Domain-Specific Language are designed to match a particular applications area. A DSL is designed for readability and easy programming of repeating problems. Using the innovative Boo language, it's a breeze to create a DSL for your application domain that works on .NET and does not sacrifice performance.    DSLs in Boo shows you how to design, extend, and evolve DSLs for .NET by focusing on approaches and patterns. You learn to define an app in terms that match the domain, and to use Boo to build DSLs that generate efficient executables. And you won't deal with the awkward XML-laden syntax many DSLs require. The book concentrates on writing internal (textual) DSLs that allow easy extensibility of the application and framework. And if you don't know Boo, don't worry   you'll learn right here all the techniques you need.    WHAT'S INSIDE:        * Introduction to DSLs, including common patterns      * A fast-paced Boo tutorial      * Dozens of practical examples and tips      * An entertaining, easy-to-follow style",
+    "status": "PUBLISH",
+    "authors": ["Oren Eini writing as Ayende Rahien"],
+    "categories": ["Microsoft .NET"]
+}, {
+    "_id": 262,
+    "title": "JUnit Recipes",
+    "isbn": "1932394230",
+    "pageCount": 752,
+    "publishedDate": {
+        "$date": "2004-07-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rainsberger.jpg",
+    "longDescription": "When testing becomes a developer's habit good things tend to happen--good productivity, good code, and good job satisfaction. If you want some of that, there's no better way to start your testing habit, nor to continue feeding it, than with JUnit Recipes. In this book you will find one hundred and thirty seven solutions to a range of problems, from simple to complex, selected for you by an experienced developer and master tester. Each recipe follows the same organization giving you the problem and its background before discussing your options in solving it.    JUnit - the unit testing framework for Java - is simple to use, but some code can be tricky to test. When you're facing such code you will be glad to have this book. It is a how-to reference full of practical advice on all issues of testing, from how to name your test case classes to how to test complicated J2EE applications. Its valuable advice includes side matters that can have a big payoff, like how to organize your test data or how to manage expensive test resources.",
+    "status": "PUBLISH",
+    "authors": ["J. B. Rainsberger with contributions by Scott Stirling"],
+    "categories": ["Java"]
+}, {
+    "_id": 263,
+    "title": "wxPython in Action",
+    "isbn": "1932394621",
+    "pageCount": 620,
+    "publishedDate": {
+        "$date": "2006-03-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rappin.jpg",
+    "shortDescription": "\"The book is easy to read and provides an approach to a very practical contemporary topic. The authors have organized their material well.\" -- Melissa Strange, Walden University, www.reviews.com",
+    "longDescription": "wxPython is an open source GUI toolkit for the Python programming language. It offers productivity gains and useful features for any programmer, and is quickly gaining in popularity as a result. The only published source for the wxPython toolkit, co-authored by the toolkit s developer Robin Dunn, wxPython in Action shows readers why wxPython is a better interface tool than Tkinter, the tool that is distributed with Python.    Because they are often large and complex, GUI programming toolkits can be hard to use. wxPython is a combination of the Python programming language and the wxWidgets toolkit, which allows programmers to create programs with a robust, highly functional graphical user interface, simply and easily. wxPython combines the power of an exceptionally complete user interface toolkit with an exceptionally flexible programming language. The result is a toolkit that is unique in the ease with which complex applications can be built and maintained.    wxPython in Action is a complete guide to the wxPython toolkit, containing a tutorial for getting started, a guide to best practices, and a reference to wxPython s extensive widget set. After an easy introduction to wxPython concepts and programming practices, the book takes an in-depth tour of when and how to use the bountiful collection of widgets offered by wxPython. All features are illustrated with useful code examples and reference tables are included for handy lookup of an object s properties, methods, and events. The book enables developers to learn wxPython quickly and remains a valuable resource for future work.",
+    "status": "PUBLISH",
+    "authors": ["Noel Rappin", "Robin Dunn"],
+    "categories": ["Python"]
+}, {
+    "_id": 264,
+    "title": "Clojure in Action",
+    "isbn": "1935182595",
+    "pageCount": 475,
+    "publishedDate": {
+        "$date": "2011-11-15T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rathore.jpg",
+    "shortDescription": "Clojure in Action is a hands-on tutorial for the working programmer who has written code in a language like Java or Ruby, but has no prior experience with Lisp. It teaches Clojure from the basics to advanced topics using practical, real-world application examples. Blow through the theory and dive into practical matters like unit-testing, environment set up, all the way through building a scalable web-application using domain-specific languages, Hadoop, HBase, and RabbitMQ.",
+    "longDescription": "Clojure is a modern implementation of Lisp for the JVM, ideally suited for general programming and specialized tasks like creating domain specific languages. Like Haskell and Scala, Clojure supports the functional style of programming. By combining first-class functions, lexical closures, multimethods, and a full-fledged macro system, you get more than what typical OO languages can possibly offer. Moreover, you get ultra-clean code that reflects Lisp's famously-concise style. That means far fewer bugs when compared to stateful languages such as Java or C++.    Clojure in Action is a hands-on tutorial for the working programmer who has written code in a language like Java or Ruby, but has no prior experience with Lisp. It teaches Clojure from the basics to advanced topics using practical, real-world application examples. Blow through the theory and dive into practical matters like unit-testing, environment set up, all the way through building a scalable web-application using domain-specific languages, Hadoop, HBase, and RabbitMQ.    For readers coming from Java, you'll see how Clojure's use of the JVM makes it seamlessly interoperable with existing Java code. Learn how to access the thousands of existing libraries and frameworks. You'll also discover the concurrency semantics built into the language, which enable you to very easily write multi-threaded programs and take advantage of multiple cores in modern CPUs. With cloud-computing and multi-core becoming major trends, this is a huge advantage.    WHAT'S INSIDE        * A modern Lisp without all the baggage      * Functional programming that's also practical      * Unit-testing, embedding Clojure, distributed programming, and more      * State management and safe concurrency for multi-core CPUs      * Create domain specific languages (DSLs) with the macro system      * Write web-scale applications that scale transparently across multiple CPUs      * Seamless interoperability with thousands of Java libraries      * Get performance on level with raw Java",
+    "status": "PUBLISH",
+    "authors": ["Amit Rathore"],
+    "categories": ["Java"]
+}, {
+    "_id": 265,
+    "title": "Scala in Action",
+    "isbn": "1935182757",
+    "pageCount": 0,
+    "publishedDate": {
+        "$date": "2013-04-09T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/raychaudhuri.jpg",
+    "status": "PUBLISH",
+    "authors": ["Nilanjan Raychaudhuri"],
+    "categories": ["Java"]
+}, {
+    "_id": 266,
+    "title": "Working with Objects",
+    "isbn": "134529308",
+    "pageCount": 420,
+    "publishedDate": {
+        "$date": "1995-08-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/reenskaug.jpg",
+    "shortDescription": "\"The first method that deals realistically with reuse, and one of the few that comes close to describing what I do when I design.\" --Ralph Johnson, University of Illinois",
+    "longDescription": "Working With Objects is the authoritative account of the highly successful OOram method for software analysis, design, development, maintenance and reuse. OOram has been fine-tuned over a decade on hundreds of projects by Trygve Reenskaug and his collaborators. It is supported by available CASE tools, training, and consulting.    Working With Objects is the source on a method which takes an evolutionary step forward in object-oriented development practices. OOram adds the intuitively simple but powerful concept of a role to object-oriented models and methods. For example, imagine trying to describe a person as an object. The most effective way to do this would be to independently describe each of the roles that person adopts (parent, employee, and so on) and then define how the person supports them. These ideas form the heart of the OOram approach.    In a presentation rich with examples, Working With Objects is anything but the typical, dry methodology book. It tells real-life stories. It teaches how to apply role modeling and benefit from its inherent advantages, including:    Multiple views of the same model  Support for both data- and process-centered approaches  Large systems described through a number of distinct models  Derivation of composite models from simpler, base models  Decentralized management of very large systems  Programming language-independent design  Step-by-step transformation of models into implementations  Integration of powerful reuse techniques with work policies, processes and organization",
+    "status": "PUBLISH",
+    "authors": ["Trygve Reenskaug"],
+    "categories": ["Object-Oriented Programming"]
+}, {
+    "_id": 267,
+    "title": "PHP in Action",
+    "isbn": "1932394753",
+    "pageCount": 552,
+    "publishedDate": {
+        "$date": "2007-07-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/reiersol.jpg",
+    "shortDescription": "\"If there was ever a textbook for software development in PHP, this would be it.\"    Cal Evans, Podcast Review, Zend Developer Network",
+    "longDescription": "To keep programming productive and enjoyable, state-of-the-art practices and principles are essential. Object-oriented programming and design help manage complexity by keeping components cleanly separated. Unit testing helps prevent endless, exhausting debugging sessions. Refactoring keeps code supple and readable. PHP offers all this, and more.    PHP in Action shows you how to apply PHP techniques and principles to all the most common challenges of web programming, including:    Web presentation and templates  User interaction including the Model-View-Contoller architecture  Input validation and form handling  Database connection and querying and abstraction  Object persistence  This book takes on the most important challenges of web programming in PHP 5 using state-of-the art programming and software design techniques including unit testing, refactoring and design patterns. It provides the essential skills you need for developing or maintaining complex to moderately complex PHP web applications.",
+    "status": "PUBLISH",
+    "authors": ["Dagfinn Reiersøl with Marcus Baker", "Chris Shiflett"],
+    "categories": ["PHP"]
+}, {
+    "_id": 269,
+    "title": "Secrets of the JavaScript Ninja",
+    "isbn": "193398869X",
+    "pageCount": 300,
+    "publishedDate": {
+        "$date": "2012-12-27T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/resig.jpg",
+    "shortDescription": "   Secrets of the Javascript Ninja is definitely a book for anyone looking to significantly improve their Javascript knowledge and skills.       Ryan Doherty, Web Development Engineer, Mozilla",
+    "longDescription": "JavaScript developers commonly rely on collections of reusable JavaScript code--written by themselves or by someone else at their company. Alternatively, they rely on code from a third party. But in all these cases they need to know how to either construct a cross-browser library from scratch or be adept at using and maintaining their library of choice.    In Secrets of the JavaScript Ninja, JavaScript expert John Resig reveals the inside know-how of the elite JavaScript programmers. Written to be accessible to JavaScript developers with intermediate-level skills, this book will give you the knowledge you need to create a cross-browser JavaScript library from the ground up.    This book takes you on a journey towards mastering modern JavaScript development in three phases: design, construction, and maintenance. You first are given a base of strong, advanced JavaScript knowledge, enabling you to make decisions about the overall design of a library and how to tackle its eventual construction. The book then teaches you how to construct your library. It examines all the numerous tasks JavaScript libraries have to tackle and provides practical solutions and development strategies for their creation. It then guides you through the various maintenance techniques you will need to keep your code running well into the future.    With Secrets of the JavaScript Ninja you will have all the knowledge and skills available to build your own JavaScript library, or to understand how to use any modern JavaScript library available.",
+    "status": "PUBLISH",
+    "authors": ["John Resig"],
+    "categories": ["Java"]
+}, {
+    "_id": 270,
+    "title": "Microsoft Office Essentials",
+    "isbn": "132623129",
+    "pageCount": 480,
+    "publishedDate": {
+        "$date": "1996-07-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/richardson2.jpg",
+    "shortDescription": "Microsoft Office Essentials simply covers the things you really want to know and skips over all those esoteric features that 99 out of 100 readers never use.",
+    "longDescription": "Many books on Microsoft Office try to cover every feature of the software. You don't use every feature, though. Microsoft Office Essentials simply covers the things you really want to know and skips over all those esoteric features that 99 out of 100 readers never use.    You will learn, among other things, how to use:    - Microsoft Office Manager and Shortcut Bar  - Word's formatting tools -- templates, styles, and wizards  - Word to create newsletters, reports, etc.  - Word and Excel together, capitalizing on the strengths of both  - Excel to create simple workbooks for such tasks as balancing your checkbook or preparing a budget  - Excel to display your data with charts  - Powerpoint to develop a presentation that combines words and clip-art images    Once you get to know Microsoft Office Essentials you'll want to keep it within easy reach of you computer...",
+    "status": "PUBLISH",
+    "authors": ["Ronny Richardson"],
+    "categories": ["Business"]
+}, {
+    "_id": 272,
+    "title": "Swing Second Edition",
+    "isbn": "193011088X",
+    "pageCount": 912,
+    "publishedDate": {
+        "$date": "2003-02-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/robinson2.jpg",
+    "longDescription": "This book builds on the successful approach of the first edition of Swing, once again taking the power and flexibility of Java's Swing library to its limits. Using a fast-paced style, it starts by introducing each of the Swing components and continues with production-quality code examples in which Swing features are customized, combined, and vigorously exercised to demonstrate real-world usage.    With over 400 pages of revised text, additional examples, and new material to bring the book up to date with J2SE 1.4, Swing Second Edition includes complete coverage of the new JSpinner and JFormattedTextField components, the new Focus and Keyboard architectures, and many other new and enhanced Swing features. Three new chapters have also been added to cover the construction of HTML and XML editor applications, and how to work with the new Drag & Drop architecture.",
+    "status": "PUBLISH",
+    "authors": [],
+    "categories": ["Java", "Internet"]
+}, {
+    "_id": 273,
+    "title": "The Awesome Power of Java Beans",
+    "isbn": "1884777562",
+    "pageCount": 500,
+    "publishedDate": {
+        "$date": "1998-05-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rodrigues.jpg",
+    "longDescription": "Build your own bean  Or use one that's ready-made  The Awesome Power of Java Beans provides the details on both. Either way, the power of Java Beans is awesome: once created, your beans run anywhere-- ceven masquerading as an ActiveX control.    The Awesome Power of Java Beans shows you how to use not only BeanBox, but also such tools as VisualAge WebRunner, JBuilder and PowerJ. And there's a wide-ranging selection of completed and tested beans for you to use in your applications    If you're a Java programmer, teacher or student, or if you design software systems using Java Beans, this book will be a valuable resource.",
+    "status": "PUBLISH",
+    "authors": ["Lawrence H. Rodrigues"],
+    "categories": ["Java"]
+}, {
+    "_id": 274,
+    "title": "Personal Videoconferencing",
+    "isbn": "013268327X",
+    "pageCount": 420,
+    "publishedDate": {
+        "$date": "1996-06-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rosen.jpg",
+    "shortDescription": "\"Personal Videoconferencing is having an enormous impact on business. Evan Rosen has quantified that impact with examples of real world implementations and provided a primer on how businesses can achieve this competitive advantage for themselves.\"  --Frank Gill, Executive Vice President, Internet and Communications Group, Intel    \"The book is very good: it is clear and the examples of user applications are excellent\"  --Ralph Ungermann, CEO, First Virtual Corporation ",
+    "longDescription": "The first book on the most powerful communication tool since the development of the personal computer, Personal Videoconferencing will help you streamline your business and gain a competitive edge. It summarizes the experience of more than seventy companies in many industries in the use of desktop and laptop videoconferencing to collaborate on documents and applications while communicating through video, face-to-face. Anyone who shares information with others will benefit from reading this book.  ",
+    "status": "PUBLISH",
+    "authors": ["Evan Rosen"],
+    "categories": ["Networking"]
+}, {
+    "_id": 275,
+    "title": "The Cloud at Your Service",
+    "isbn": "1935182528",
+    "pageCount": 200,
+    "publishedDate": {
+        "$date": "2010-11-22T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rosenberg.jpg",
+    "status": "PUBLISH",
+    "authors": ["Jothy Rosenberg", "Arthur Mateos"],
+    "categories": ["Internet"]
+}, {
+    "_id": 276,
+    "title": "Implementing Elliptic Curve Cryptography",
+    "isbn": "1884777694",
+    "pageCount": 330,
+    "publishedDate": {
+        "$date": "1998-11-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rosing.jpg",
+    "shortDescription": "\"The book provides all the theory and working programs needed to create real applications based on the latest IEEE P1363 standard.\"  --Reviewed in Cryptologia",
+    "longDescription": "Implementing Elliptic Curve Cryptography proceeds step-by-step to explain basic number theory, polynomial mathematics, normal basis mathematics and elliptic curve mathematics. With these in place, applications to cryptography are introduced. The book is filled with C code to illustrate how mathematics is put into a computer, and the last several chapters show how to implement several cryptographic protocols. The most important is a description of P1363, an IEEE draft standard for public key cryptography.    The main purpose of Implementing Elliptic Curve Cryptography is to help \"crypto engineers\" implement functioning, state-of-the-art cryptographic algorithms in the minimum time. With detailed descriptions of the mathematics, the reader can expand on the code given in the book and develop optimal hardware or software for their own applications.    Implementing Elliptic Curve Cryptography assumes the reader has at least a high school background in algebra, but it explains, in stepwise fashion, what has been considered to be a topic only for graduate-level students. ",
+    "status": "PUBLISH",
+    "authors": ["Michael Rosing"],
+    "categories": ["Theory"]
+}, {
+    "_id": 277,
+    "title": "SOA Patterns",
+    "isbn": "1933988266",
+    "pageCount": 250,
+    "publishedDate": {
+        "$date": "2012-09-12T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rotem.jpg",
+    "shortDescription": "In SOA Patterns, author Arnon Rotem-Gal-Oz provides detailed, technology-neutral solutions to these challenges, and many others. This book provides architectural guidance through patterns and anti-patterns. It shows you how to build real SOA services that feature flexibility, availability, and scalability.",
+    "longDescription": "SOA   Service Oriented Architecture   has become the leading solution for complex, connected business systems. While it's easy to grasp the theory of SOA, implementing well-designed, practical SOA systems can be a difficult challenge. Developers and enterprise architects still face the following issues:        * How to get high-availability with SOA      * How to know a service has failed      * How to create reports when data is scattered within multiple services      * How to increase the loose coupling of your SOA      * How to solve authentication and authorization for service consumers--internal and external      * How to integrate SOA and the UI      * How to avoid common SOA pitfalls      * How to choose technologies that increase the performance of your services    In SOA Patterns, author Arnon Rotem-Gal-Oz provides detailed, technology-neutral solutions to these challenges, and many others. This book provides architectural guidance through patterns and anti-patterns. It shows you how to build real SOA services that feature flexibility, availability, and scalability. Through an extensive set of patterns, this book identifies the major SOA pressure points and provides reusable techniques to address them. Each pattern pairs the classic Problem/Solution format with a unique technology map, showing where specific solutions fit into the general pattern.    SOA Patterns shows you how to address common SOA concerns, including the areas of performance, availability, scalability, security, management, service interaction, user interface interaction, and service aggregation. The SOA anti-patterns part shows you how to avoid common mistakes and how to refactor broken systems. The book also maps quality attributes to patterns so that you can easily find the patterns relevant to your problems.    WHAT'S INSIDE:        * Details more than 30 patterns for common SOA scenarios in the areas of security, performace, availability, UI integration, service aggregation and service interaction      * Describes more than 20 SOA pitfalls to avoid      * Spotlights the architecural perspective on SOA      * Explains technology mapping from conceptual solution to current technologies      * Provides extensive and practical advice on matching patterns to technologies  ",
+    "status": "PUBLISH",
+    "authors": ["Arnon Rotem-Gal-Oz"],
+    "categories": ["SOA"]
+}, {
+    "_id": 278,
+    "title": "Hello World!",
+    "isbn": "1933988495",
+    "pageCount": 432,
+    "publishedDate": {
+        "$date": "2009-03-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/sande.jpg",
+    "shortDescription": "Hello World! provides a gentle but thorough introduction to the world of computer programming.",
+    "longDescription": "Your computer won't respond when you yell at it. Why not learn to talk to your computer in its own language  Whether you want to write games, start a business, or you're just curious, learning to program is a great place to start. Plus, programming is fun!    Hello World! provides a gentle but thorough introduction to the world of computer programming. It's written in language a 12-year-old can follow, but anyone who wants to learn how to program a computer can use it. Even adults. Written by Warren Sande and his son, Carter, and reviewed by professional educators, this book is kid-tested and parent-approved.    You don't need to know anything about programming to use the book. But you should know the basics of using a computer--e-mail, surfing the web, listening to music, and so forth. If you can start a program and save a file, you should have no trouble using this book.",
+    "status": "PUBLISH",
+    "authors": ["Warren D. Sande", "Carter Sande"],
+    "categories": ["Programming", "Python"]
+}, {
+    "_id": 279,
+    "title": "SCBCD Exam Study Kit",
+    "isbn": "1932394400",
+    "pageCount": 488,
+    "publishedDate": {
+        "$date": "2005-06-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/sanghera.jpg",
+    "longDescription": "There is probably no Java certification more valuable to you than Sun Certified Business Component Developer CX-310-090. To pass you need a readable, no-nonsense book focused like a laser beam on the exam goals. SCBCD Exam Study Kit is that book.    The study kit makes sure you first understand all the concepts you need to know, large and small, and then covers every single exam topic. It provides more than 130 review questions with answers distributed over all chapters and an Exam's Eye View section at the end of each chapter on the important points to remember.    Although SCBCD Exam Study Kit has only one purpose - to help you get certified - you will find yourself returning to it as a reference after passing the exam. A demo on how to install the necessary software, write a simple bean, deploy the bean, and execute it, as well as a free SCBCD exam simulator can be downloaded from the publisher's website.",
+    "status": "PUBLISH",
+    "authors": ["Paul Sanghera"],
+    "categories": ["Java"]
+}, {
+    "_id": 280,
+    "title": "Portlets in Action",
+    "isbn": "1935182544",
+    "pageCount": 475,
+    "publishedDate": {
+        "$date": "2011-09-16T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/sarin.jpg",
+    "shortDescription": "Portlets in Action is a comprehensive guide for Java developers with minimal or no experience working with portlets. Fully exploring the Portlet 2.0 API and using widely adopted frameworks like Spring 3.0 Portlet MVC, Hibernate, and DWR, it teaches you portal and portlet development by walking you through a Book Catalog portlet and Book Portal examples.",
+    "longDescription": "A \"portal\" is a browser-based container populated by small applications called \"portlets\". Good portlets need to work independently, but also communicate with the portal, other portlets, and outside servers and information sources. Whether they're part of internal or web-facing portals, high-quality portlets are the foundation of a fast, flexible, and successful development strategy.    Portlets in Action is a comprehensive guide for Java developers with minimal or no experience working with portlets. Fully exploring the Portlet 2.0 API and using widely adopted frameworks like Spring 3.0 Portlet MVC, Hibernate, and DWR, it teaches you portal and portlet development by walking you through a Book Catalog portlet and Book Portal examples. The example Book Catalog Portlet, developed incrementally in each chapter of the book, incorporates most key portlet features, and the accompanying source code can be easily adapted and reused by readers. The example Book Portal application introduces you to the challenges faced in developing web portals.  WHAT'S INSIDE        * Complete coverage of Portlet 2.0 API      * New features added in Portlet 2.0      * Code examples use      * Develop rich portlets using AJAX with DWR, DOJO, and jQuery      * Complete coverage of Spring 3.0 Portlet MVC and the Liferay portal server  ",
+    "status": "PUBLISH",
+    "authors": ["Ashish Sarin"],
+    "categories": ["Java"]
+}, {
+    "_id": 281,
+    "title": "SWT/JFace in Action",
+    "isbn": "1932394273",
+    "pageCount": 496,
+    "publishedDate": {
+        "$date": "2004-11-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/scarpino.jpg",
+    "shortDescription": "Guides you through the process of developing Eclipse-based GUIs and shows how to build applications with features your users will love. Packed with examples and no fluff.",
+    "longDescription": "SWT and JFace are Eclipse's graphical libraries. They enable you to build nimble and powerful Java GUIs--but this is only the beginning. With Draw2D and the Graphical Editing Framework, you can go beyond static applications and create full-featured editors. And with the Rich Client Platform, you can build customized workbenches whose capabilities far exceed those of traditional interfaces.    SWT/JFace in Action covers the territory, from simple widgets to complex graphics. It guides you through the process of developing Eclipse-based GUIs and shows how to build applications with features your users will love. The authors share their intimate knowledge of the subject with you in a friendly, readable style.    This book encourages you to learn through action. Each topic provides extensive code to show you how SWT/JFace works in practical applications. Not only do these examples help you understand the subject, they are a working set of programs you can reuse in your own interfaces.",
+    "status": "PUBLISH",
+    "authors": ["Matthew Scarpino", "Stephen Holder", "Stanford Ng", "", "Laurent Mihalkovic"],
+    "categories": ["Java"]
+}, {
+    "_id": 282,
+    "title": "OpenCL in Action",
+    "isbn": "1617290173",
+    "pageCount": 0,
+    "publishedDate": {
+        "$date": "2011-11-14T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/scarpino2.jpg",
+    "status": "PUBLISH",
+    "authors": ["Matthew Scarpino"],
+    "categories": ["Programming"]
+}, {
+    "_id": 283,
+    "title": "Multiprotocol over ATM",
+    "isbn": "138892709",
+    "pageCount": 341,
+    "publishedDate": {
+        "$date": "1998-03-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/schmidt.jpg",
+    "shortDescription": "With the detailed coverage of the entire set of protocols in Multiprotocol over ATM, you can be equal to the task.",
+    "longDescription": "Networks constructed with current ATM protocol design standards exceed by far former network capabilities. Unfortunately, this new ATM power and flexibility come at the cost of greater complexity. With the detailed coverage of the entire set of protocols in Multiprotocol over ATM, you can be equal to the task. If you're a network manager or designer, responsible for planning, building, or managing an enterprise or campus network, this book is for you.",
+    "status": "PUBLISH",
+    "authors": ["Andrew Schmidt", "Daniel Minoli"],
+    "categories": ["Internet", "Networking"]
+}, {
+    "_id": 284,
+    "title": "Dependency Injection in .NET",
+    "isbn": "1935182501",
+    "pageCount": 375,
+    "publishedDate": {
+        "$date": "2011-10-03T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/seemann.jpg",
+    "shortDescription": "Dependency Injection in .NET is a comprehensive guide than introduces DI and provides an in-depth look at applying DI practices to .NET apps. In it, you will also learn to integrate DI together with such technologies as Windows Communication Foundation, ASP.NET MVC, Windows Presentation Foundation and other core .NET components.",
+    "longDescription": "Dependency Injection (DI) is a software design technique emphasizing Separation of Concerns, Modularity, Extensibility and Testability. Applied well, it enables programmers to successfully deal with complexity in software and add new features to existing apps with greater ease. DI is the key to writing modular software and producing flexible and maintainable code bases.    While well-known among Java developers and other practitioners of object-oriented design, DI is only now gaining momentum in the .NET community. The Unity container released by Microsoft patterns & practices and the new Microsoft Extensibility Framework (MEF) make DI more relevant than ever for .NET developers.    Dependency Injection in .NET is a comprehensive guide than introduces DI and provides an in-depth look at applying DI practices to .NET apps. In it, you will also learn to integrate DI together with such technologies as Windows Communication Foundation, ASP.NET MVC, Windows Presentation Foundation and other core .NET components.    Building on your existing knowledge of C# and the .NET platform, this book will be most beneficial for readers who have already built at least a few software solutions of intermediate complexity. Most examples are in plain C# without use of any particular DI framework. Later, the book introduces several well-known DI frameworks, such as StructureMap, Windsor and Spring.NET. For each framework, it presents examples of its particular usage, as well as examines how the framework relates to the common patterns presented earlier in the book.    WHAT'S INSIDE        * A thorough introduction to DI principles applied to .NET development      * Numerous C#-based examples      * A comprehensive catalog of Patterns and Anti-Patterns      * Understand the importance of loose coupling      * Learn DI Containers including StructureMap, Windsor, Spring.NET and the Microsoft Extensibility Framework      * Identify and avoid common traps",
+    "status": "PUBLISH",
+    "authors": ["Mark Seemann"],
+    "categories": ["Microsoft .NET"]
+}, {
+    "_id": 285,
+    "title": "Java 3D Programming",
+    "isbn": "1930110359",
+    "pageCount": 400,
+    "publishedDate": {
+        "$date": "2002-03-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/selman.jpg",
+    "longDescription": "Java 3D Programming steps programmers through the important design and implementation phases of developing a successful Java 3D application. The book provides invaluable guidance on whether to use Java 3D, user interface design, geometry creation, scene manipulation and final optimizations. The book does not attempt to exhaustively cover the API or replicate the official documentation but rather serves as a roadmap to alert programmers of design issues and potential pitfalls.    The author distills 12 months of using the Java 3D API for commercial projects, as well as innumerable discussions on the Java 3D email list into a book that all Java 3D developers will appreciate. Experienced Java 3D developers will applaud an authoritative resource containing the state-of-the-art in techniques and workarounds, while novice Java 3D programmers will gain a fast-track into Java 3D development, avoiding the confusion, frustration and time wasted learning Java 3D techniques and terminology.    Java 3D Programming comes complete with a comprehensive set of programming examples to illustrate the techniques, features, workarounds and bug fixes contained in the main text.    Readers of this book would include students and postgraduate researchers developing visualization applications for academia. Moderately experienced in Java, some experience of 3D graphics, little or no experience of Java 3D is needed. R+D s/w engineers at commercial institutions. Experienced Java developers, experienced with OpenGL or VRML, little or no experience with Java 3D.",
+    "status": "PUBLISH",
+    "authors": ["Daniel Selman"],
+    "categories": ["Java", "Internet", "Computer Graph"]
+}, {
+    "_id": 286,
+    "title": "Liferay in Action",
+    "isbn": "193518282X",
+    "pageCount": 375,
+    "publishedDate": {
+        "$date": "2011-09-20T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/sezov.jpg",
+    "status": "PUBLISH",
+    "authors": ["Richard Sezov", "Jr"],
+    "categories": ["Internet"]
+}, {
+    "_id": 287,
+    "title": "JSP Tag Libraries",
+    "isbn": "193011009X",
+    "pageCount": 656,
+    "publishedDate": {
+        "$date": "2001-05-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/shachor.jpg",
+    "longDescription": "JSP Tag Libraries is a bible for serious JSP developers. The reader will become acquainted with the world of custom JSP tags--new JSP technology that is beginning to have an enormous impact on the way people are developing JSP.    JSP tags are Java components that can be used from within a JSP file. By representing these components as tags, code authors can open up their JSP development to the everyday content developer as well as improve their code reuse and separation between presentation and business logic.    The book is fully loaded with many real-world tags including tags to perform iterations, access databases, EJBs, email systems and JavaBeans. To make the tag usage even more real, the book also offers two full-scale case studies in which the reader will see how tags can be used in the context of:    e-Commerce applications  WAP applications that work with current cellular phones  This book covers all aspects of JSP Tag development for Scriptlet-free generation of online content. It focuses on reusable component-centric design via JavaBeans and custom tags to separate presentation from implementation.",
+    "status": "PUBLISH",
+    "authors": ["Gal Shachor", "Adam Chace", "Magnus Rydin"],
+    "categories": ["Java", "Internet"]
+}, {
+    "_id": 289,
+    "title": "Instant Messaging in Java",
+    "isbn": "1930110464",
+    "pageCount": 402,
+    "publishedDate": {
+        "$date": "2002-03-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/shigeoka.jpg",
+    "shortDescription": "This intermediate Java programming book provides Java programmers with the information and tools needed to create your own IM client and server software.",
+    "longDescription": "Instant Messaging has exploded into the online world and is a wildly popular service of the largest Internet Service Providers (ISP) like AOL with AOL Instant Messenger, MSN with Microsoft Messenger, and Yahoo with Yahoo Messenger. Millions of Internet users everyday exchange IM s and its use beyond messaging is just around the corner. For example, the new Microsoft .NET platform will be using instant messaging technology for data exchange.    This intermediate Java programming book provides Java programmers with the information and tools needed to create your own IM client and server software. You can use the software to create your own IM systems or integrate IM features into your existing software. Imagine allowing your customers to chat directly with technical support or other users from within your application!    This book focuses on the open source Jabber XML-based IM protocols (www.jabber.org) to create Java IM software. These open protocols allows your IM software to seamlessly communicate with the large number of other Jabber clients and servers available including commercial Jabber systems like the one that powers Disney's go.com IM.    Readers are assumed to know how to program in Java. No prior knowledge of Jabber or IM is needed.",
+    "status": "PUBLISH",
+    "authors": ["Iain Shigeoka"],
+    "categories": ["Internet", "Java"]
+}, {
+    "_id": 290,
+    "title": "Java Applets and Channels Without Programming",
+    "isbn": "1884777392",
+    "pageCount": 372,
+    "publishedDate": {
+        "$date": "1999-12-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/shoffner.jpg",
+    "shortDescription": "Java Applets and Channels Without Programming collects almost 100 applets on a CD with detailed instructions on how to use each applet. In addition, style issues are discussed in detail; not only will you learn how to use each applet, you will learn when and where it is appropriate to use each applet. The book also introduces the new concept of channels and shows how these can be used on your web site as well.  ",
+    "longDescription": "If you want to use Java to enhance your Web site, you have two choices: you can write the Java applet yourself or you can find an already written Java applet that meets your needs. If you prefer not to do the writing yourself, then Java Applets and Channels Without Programming is for you. It collects almost 100 applets on a CD with detailed instructions on how to use each applet. In addition, style issues are discussed in detail; not only will you learn how to use each applet, you will learn when and where it is appropriate to use each applet. The book also introduces the new concept of channels and shows how these can be used on your web site as well.    The CD-ROM also contains an exclusive applet configuration utility, a program that allows you to configure the Java applets on the CD-ROM in a WYSIWYG (What You See Is What You Get) environment. When using the utility to configure Java applets, you do not need to know any Java programming or even any HTML programming. All you do is change the value of a parameter and click on a button to see the resulting change to the applet. The applet configuration utility is written in Java and runs in your browser, so it runs on any computer platform for which there is a Java-enabled browser.    The CD-ROM also provides example web pages for more than 60 of the included applets, so you can learn how to use the applets in real-world situations.",
+    "status": "PUBLISH",
+    "authors": ["Ronny Richardson", "Michael Shoffner", "Marq Singer", "Bruce Murray", "", "Jack Gambol"],
+    "categories": ["Java"]
+}, {
+    "_id": 291,
+    "title": "PowerShell in Practice",
+    "isbn": "1935182005",
+    "pageCount": 500,
+    "publishedDate": {
+        "$date": "2010-06-08T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/siddaway.jpg",
+    "shortDescription": "PowerShell in Practice is a hands-on, cookbook-style reference intended for administrators wanting to learn and use PowerShell. Written from an administrator's perspective, it concentrates on using PowerShell for practical tasks and automation. The book starts with an introduction that includes a rapid tutorial and a review of the key areas in which you'll use PowerShell.",
+    "longDescription": "Whether you're optimizing performance, automating tasks, or exploiting software features, efficiency is the key to a system administrator's success. Anything that saves a few cycles is a welcome addition to your toolbox; Windows PowerShell has the potential to change the game entirely.    Windows PowerShell is a new scripting language written from the ground up with the goal of simplifying Windows system administration. It's fully aware of the Windows platform and is tightly integrated with key server technologies like Exchange, IIS, SQL Server. PowerShell borrows many ideas from the Unix scripting world, so it's instantly familiar to anyone who has scripted in Bash or another Unix shell. It's also a first-class programming language that supports everything from single-line commands to full-featured Windows programs.    PowerShell in Practice is a hands-on, cookbook-style reference intended for administrators wanting to learn and use PowerShell. Written from an administrator's perspective, it concentrates on using PowerShell for practical tasks and automation. The book starts with an introduction that includes a rapid tutorial and a review of the key areas in which you'll use PowerShell.    This book is written to answer the question \"How can PowerShell make my job as an administrator easier \" After you have your feet under you, you'll find an assortment of practical techniques presented in a Problem/Solution format.    The first major part, called Working with People, addresses user accounts, mailboxes, and desktop configuration and maintenance. The second major part, Working with Servers, offers techniques for DNS, Active Directory, Exchange, IIS, and more.",
+    "status": "PUBLISH",
+    "authors": ["Richard Siddaway"],
+    "categories": ["Microsoft .NET"]
+}, {
+    "_id": 292,
+    "title": "PowerShell and WMI",
+    "isbn": "1617290114",
+    "pageCount": 0,
+    "publishedDate": {
+        "$date": "2012-04-30T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/siddaway2.jpg",
+    "status": "PUBLISH",
+    "authors": ["Richard Siddaway"],
+    "categories": ["Microsoft .NET"]
+}, {
+    "_id": 293,
+    "title": "Making Sense of Java",
+    "isbn": "132632942",
+    "pageCount": 180,
+    "publishedDate": {
+        "$date": "1996-06-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/simpson.jpg",
+    "shortDescription": "Making Sense of Java clearly and concisely explains the concepts, features, benefits, potential, and limitations of Java.",
+    "longDescription": "The meteoric rise of interest in Java, and the simultaneous rise in Java-related hype, make this book's no-nonsense evaluation essential reading for all levels of professionals, from managers to programmers. Making Sense of Java clearly and concisely explains the concepts, features, benefits, potential, and limitations of Java. It is not a programmer's how-to guide and assumes little technical knowledge, though software developers will find this lucid overview to be a valuable introduction to the possible uses and capabilities of Java.",
+    "status": "PUBLISH",
+    "authors": ["Bruce Simpson", "John Mitchell", "Brian Christeson", "Rehan Zaidi", "", "Jonathan Levine"],
+    "categories": ["Java", "Business"]
+}, {
+    "_id": 294,
+    "title": "C++/CLI in Action",
+    "isbn": "1932394818",
+    "pageCount": 416,
+    "publishedDate": {
+        "$date": "2007-04-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/sivakumar.jpg",
+    "shortDescription": "   ... a great resource, an outstanding job, a must-read...        Ayman B. Shoukry, VC++ Team, Microsoft Corporation",
+    "longDescription": "Developers initially welcomed Microsoft   s Managed C++ for .NET, but the twisted syntax made it difficult to use. Its much-improved replacement, C++/CLI, now provides an effective bridge between the native and managed programming worlds. Using this technology, developers can combine existing C++ programs and .NET applications with little or no refactoring. Accessing .NET libraries like Windows Forms, WPF, and WCF from standard C++ is equally easy.    C++/CLI in Action is a practical guide that will help you breathe new life into your legacy C++ programs. The book begins with a concise C++/CLI tutorial. It then quickly moves to the key themes of native/managed code interop and mixed-mode programming. You   ll learn to take advantage of GUI frameworks like Windows Forms and WPF while keeping your native C++ business logic. The book also covers methods for accessing C# or VB.NET components and libraries. Written for readers with a working knowledge of C++.",
+    "status": "PUBLISH",
+    "authors": ["Nishant Sivakumar"],
+    "categories": ["Microsoft"]
+}, {
+    "_id": 295,
+    "title": "C# in Depth",
+    "isbn": "1933988363",
+    "pageCount": 424,
+    "publishedDate": {
+        "$date": "2008-04-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/skeet.jpg",
+    "longDescription": "In programming, there's no substitute for knowing your stuff. In versions 2 and 3, C# introduces new concepts such as lambda expressions and implicit typing that make the language more flexible and give you more power. Using Language INtegrated Query (LINQ)   also new in C# 3   you can interact with data of any type directly from C#. Simply put, mastering these features will make you a more valuable C# developer.    C# in Depth is designed to bring you to a new level of programming skill. It dives deeply into key C# topics   in particular the new ones. You'll learn to reuse algorithms in a type-safe way with C# 2 generics and expand the functionality of existing classes and interfaces using C# 3 extension methods. Tricky issues become clear in author Jon Skeet's crisp, easy-to-follow explanations and snappy, pragmatic examples. With this book under your belt, you will easily learn   and then master   new frameworks and platforms.",
+    "status": "PUBLISH",
+    "authors": ["Jon Skeet"],
+    "categories": ["Microsoft .NET"]
+}, {
+    "_id": 296,
+    "title": "C# in Depth, Second Edition",
+    "isbn": "1935182471",
+    "pageCount": 584,
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/skeet2.jpg",
+    "shortDescription": "C# in Depth, Second Edition concentrates on the high-value features that make C# such a powerful and flexible development tool. Rather than re-hashing the core of C# that's essentially unchanged since it hit the scene nearly a decade ago, this book brings you up to speed with the features and practices that have changed with C# from version 2.0 onwards.",
+    "longDescription": "C# has changed since it was first introduced   a lot! With generics, lambda expressions, dynamic typing, LINQ, iterator blocks and many other features, C# is more expressive than ever. However, you can't get the most out of the language unless you know it in depth.    C# in Depth, Second Edition concentrates on the high-value features that make C# such a powerful and flexible development tool. Rather than re-hashing the core of C# that's essentially unchanged since it hit the scene nearly a decade ago, this book brings you up to speed with the features and practices that have changed with C# from version 2.0 onwards.    This totally revamped Second Edition is bang up to date, covering the new features of C# 4 as well as Code Contracts. In it, you'll master the subtleties of C#, learning how to tame the trickier bits and apply them to best advantage. Along the way you'll find out how to avoid hidden pitfalls and go \"behind the scenes\" to ensure you don't get nasty surprises.",
+    "status": "PUBLISH",
+    "authors": ["Jon Skeet"],
+    "categories": ["Microsoft .NET"]
+}, {
+    "_id": 297,
+    "title": "Magical A-Life Avatars",
+    "isbn": "1884777589",
+    "pageCount": 450,
+    "publishedDate": {
+        "$date": "2000-12-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/small.jpg",
+    "shortDescription": "\"Distinctive book explaining how to get intelligent software agents to work.\" --Clipcode.com",
+    "longDescription": "Here's a book guaranteed to inspire your creativity and get you looking at the Internet and the World Wide Web with new eyes. Modeling its vision on evolutionary biology, Magical A-Life Avatars uses the example environment of Macromedia Director to create:    imaginative Intranets  original Internet services and applications  new approaches to e-commerce and distance learning  smart agents and Internet robots  brain-like processing modules for adaptation and learning  novel forms of information processing  Magical A-Life Avatars shows, with practical examples, how to bring intelligence to your Website and create Internet interfaces that will increase your competitive advantage. If you're interested in cutting-edge website design and application, this book is for you.",
+    "status": "PUBLISH",
+    "authors": ["Peter Small"],
+    "categories": ["Internet", "Theory"]
+}, {
+    "_id": 298,
+    "title": "Becoming Agile",
+    "isbn": "1933988258",
+    "pageCount": 408,
+    "publishedDate": {
+        "$date": "2009-05-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/smith.jpg",
+    "shortDescription": "   Becoming Agile is not another book to be classified in the existing ones handling agile practices, it's one of the rare writings which will go with you in the adoption and setup/migration to an agile process...This real must-have agilist's bedside book reads very well and will accompany you in your migration agile practices...       Eric Siber, Developpez.com",
+    "longDescription": "Agile principles have been a breath of fresh air to many development teams stuck in the middle of a rigid, process-driven environment. Unfortunately, it's not so easy to bring Agile into an existing organization with established people and practices. Becoming Agile shows you practical techniques and strategies to move from your existing process to an Agile process without starting from scratch.    Many books discuss Agile from a theoretical or academic perspective. Becoming Agile takes a different approach and focuses on explaining Agile from a ground-level point-of-view. Author Greg Smith, a certified ScrumMaster with dozens of Agile projects under his belt, presents Agile principles in the context of a case study that flows throughout the book.    Becoming Agile focuses on the importance of adapting Agile principles to the realities of your environment. While Agile purists have often discouraged a    partial-Agile    approach, the reality is that in many shops a    purist    approach simply isn't a viable option. Over the last few years, Agile authorities have begun to discover that the best deployments of Agile are often customized to the specific situation of a given company.  As well, Becoming Agile addresses the cultural realities of deploying Agile and how to deal with the needs of executives, managers, and the development team during migration. The author discusses employee motivation and establishing incentives that reward support of Agile techniques.    Becoming Agile will show you how to create a custom Agile process that supports the realities of your environment. The process will minimize risk as you transition to Agile iteratively, allowing time for your culture and processes to acclimate to Agile principles.",
+    "status": "PUBLISH",
+    "authors": ["Greg Smith", "Ahmed Sidky"],
+    "categories": ["Software Engineering"]
+}, {
+    "_id": 299,
+    "title": "ActiveMQ in Action",
+    "isbn": "1933988940",
+    "pageCount": 408,
+    "publishedDate": {
+        "$date": "2011-03-31T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/snyder.jpg",
+    "shortDescription": "ActiveMQ is implemented in Java, but it supports client applications written in many other programming languages including C/C++, .NET, Ruby, Perl, PHP, Python, and more. It can be integrated with other open source frameworks including Tomcat, ServiceMix, JBoss, and can easily bridge to other JMS providers.  ",
+    "longDescription": "Modern distributed architectures require a secure, reliable way to exchange messages in asynchronous, loosely-coupled systems. For Java developers, the Java Message Service (JMS) provides that core functionality. The Apache ActiveMQ message broker is a complete open source implementation of the JMS specification. The ActiveMQ Message-Oriented Middleware, coupled with its Enterprise Integration Provider are the building blocks of an Enterprise Service Bus   the backbone of a contemporary Service Oriented Architecture.    ActiveMQ is implemented in Java, but it supports client applications written in many other programming languages including C/C++, .NET, Ruby, Perl, PHP, Python, and more. It can be integrated with other open source frameworks including Tomcat, ServiceMix, JBoss, and can easily bridge to other JMS providers.    Apache ActiveMQ in Action is a thorough, practical guide to implementing message-oriented systems in Java using ActiveMQ. The book lays out the core of ActiveMQ in clear language, starting with the anatomy of a JMS message and moving quickly through connectors, message persistence, authentication and authorization. With the basics well in hand, you move into interesting examples of ActiveMQ at work, following a running Stock Portfolio application. You'll integrate ActiveMQ with containers like Geronimo and JBoss and learn to tie into popular Java-based technologies like Spring Framework.    Along the way, you'll pick up best practices forged out of the deep experience the authors bring to the book. You'll learn to integrate with non-Java technologies and explore advanced topics like broker topologies and configuration and performance tuning.    Additionally, the book will introduce readers to using Apache Camel with Apache ActiveMQ as a way to easily utilize the Enterprise Integration Patterns.",
+    "status": "PUBLISH",
+    "authors": ["Bruce Snyder", "Dejan Bosanac", "", "Rob Davies"],
+    "categories": ["Java"]
+}, {
+    "_id": 300,
+    "title": "Implementing PeopleSoft Financials",
+    "isbn": "138411808",
+    "pageCount": 220,
+    "publishedDate": {
+        "$date": "1997-01-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/stephens.jpg",
+    "shortDescription": "Implementing PeopleSoft Financials discusses the issues that arise and the pitfalls to avoid. Every member of the implementation team--from entry-level accounting clerk through MIS staff to executive sponsors--will benefit from reading this book.",
+    "longDescription": "The PeopleSoft promise is enticing: Here's a way for your company to implement a complete and flexible financial infrastructure in a client/server environment without the burdens of low-level programming. But, implementation remains complex and requires reengineering of the business processes and cultures of the using organizations. The author, an experienced implementor of PeopleSoft systems, discusses the issues that arise and the pitfalls to avoid. Every member of the implementation team--from entry-level accounting clerk through MIS staff to executive sponsors--will benefit from reading this book. The views it contains, coming from an independent authority, will also prove useful to those who are considering adopting PeopleSoft for their companies.",
+    "status": "PUBLISH",
+    "authors": ["Early Stephens"],
+    "categories": ["Business", "Client-Server"]
+}, {
+    "_id": 302,
+    "title": "SQL Server DMVs in Action",
+    "isbn": "1935182730",
+    "pageCount": 352,
+    "publishedDate": {
+        "$date": "2011-05-09T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/stirk.jpg",
+    "shortDescription": "SQL Server DMVs in Action shows you how to obtain, interpret, and act on the information captured by DMVs to keep your system in top shape. The over 100 code examples help you master DMVs and give you an instantly reusable SQL library. You'll also learn to use Dynamic Management Functions (DMFs), which provide further details that enable you to improve your system's performance and health.",
+    "longDescription": "SQL Server DMVs in Action is a practical guide that shows you how to obtain, interpret, and act on the information captured by DMVs to keep your system in top shape. The samples provided in this book will help you master DMVs and also give you a tested, working, and instantly reusable SQL code library.    Every action in SQL Server leaves a set of tiny footprints. SQL Server records that valuable data and makes it visible through Dynamic Management Views, or DMVs. You can use this incredibly detailed information to significantly improve the performance of your queries and better understand what's going on inside your SQL Server system.    SQL Server DMVs in Action shows you how to obtain, interpret, and act on the information captured by DMVs to keep your system in top shape. The over 100 code examples help you master DMVs and give you an instantly reusable SQL library. You'll also learn to use Dynamic Management Functions (DMFs), which provide further details that enable you to improve your system's performance and health.",
+    "status": "PUBLISH",
+    "authors": ["Ian W. Stirk"],
+    "categories": ["Microsoft .NET"]
+}, {
+    "_id": 303,
+    "title": "Scala in Depth",
+    "isbn": "1935182706",
+    "pageCount": 0,
+    "publishedDate": {
+        "$date": "2012-05-14T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/suereth.jpg",
+    "shortDescription": "Scala in Depth is a unique new book designed to help you integrate Scala effectively into your development process. By presenting the emerging best practices and designs from the Scala community, it guides you though dozens of powerful techniques example by example. There's no heavy-handed theory here-just lots of crisp, practical guides for coding in Scala.    For example:        * Discover the \"sweet spots\" where object-oriented and functional programming intersect.      * Master advanced OO features of Scala, including type member inheritance, multiple inheritance and composition.      * Employ functional programming concepts like tail recursion, immutability, and monadic operations.      * Learn good Scala style to keep your code concise, expressive and readable.    As you dig into the book, you'll start to appreciate what makes Scala really shine. For instance, the Scala type system is very, very powerful; this book provides use case approaches to manipulating the type system and covers how to use type constraints to enforce design constraints. Java developers love Scala's deep integration with Java and the JVM Ecosystem, and this book shows you how to leverage it effectively and work around the rough spots.",
+    "longDescription": "Scala is a unique and powerful new programming language for the JVM. Blending the strengths of the Functional and Imperative programming models, Scala is a great tool for building highly concurrent applications without sacrificing the benefits of an OO approach. While information about the Scala language is abundant, skilled practitioners, great examples, and insight into the best practices of the community are harder to find. Scala in Depth bridges that gap, preparing you to adopt Scala successfully for real world projects.    Scala in Depth is a unique new book designed to help you integrate Scala effectively into your development process. By presenting the emerging best practices and designs from the Scala community, it guides you though dozens of powerful techniques example by example. There's no heavy-handed theory here-just lots of crisp, practical guides for coding in Scala.    For example:        * Discover the \"sweet spots\" where object-oriented and functional programming intersect.      * Master advanced OO features of Scala, including type member inheritance, multiple inheritance and composition.      * Employ functional programming concepts like tail recursion, immutability, and monadic operations.      * Learn good Scala style to keep your code concise, expressive and readable.    As you dig into the book, you'll start to appreciate what makes Scala really shine. For instance, the Scala type system is very, very powerful; this book provides use case approaches to manipulating the type system and covers how to use type constraints to enforce design constraints. Java developers love Scala's deep integration with Java and the JVM Ecosystem, and this book shows you how to leverage it effectively and work around the rough spots.",
+    "status": "PUBLISH",
+    "authors": ["Joshua D. Suereth"],
+    "categories": ["Java"]
+}, {
+    "_id": 304,
+    "title": "JMX in Action",
+    "isbn": "1930110561",
+    "pageCount": 424,
+    "publishedDate": {
+        "$date": "2002-09-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/sullins.jpg",
+    "longDescription": "With Java Management Extensions (JMX), you can configure, manage and monitor your Java applications at run-time, as well as break your applications into components that can be swapped out. JMX provides a window into an application's state and its behavior, and a protocol-independent way of altering both state and behavior. It lets you expose portions of your application in just a few lines of code.    Written for both new and experienced developers, this book explains the JMX specification and discusses its use through clean, well-discussed examples. It covers the JMX architecture and how to create all types of MBeans. It includes important advanced topics such as extending the JMX classes, combining with other Java technologies, the MBean relation service, dynamic MBean loading, and creating your own protocol adapters.",
+    "status": "PUBLISH",
+    "authors": ["Benjamin G. Sullins", "Mark B. Whipple"],
+    "categories": ["Java"]
+}, {
+    "_id": 305,
+    "title": "EJB Cookbook",
+    "isbn": "1930110944",
+    "pageCount": 352,
+    "publishedDate": {
+        "$date": "2003-05-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/sullins2.jpg",
+    "shortDescription": "\"This book provides a great reference for the average EJB developer. It provides recipes for most common tasks that an EJB developer would need.\" -- Computing Reviews, Nov. 2003",
+    "longDescription": "The EJB Cookbook is a resource for the practicing EJB developer. It is a systematic collection of EJB 'recipes'. Each recipe describes a practical problem and its background; it then shows the code that  solves it, and ends with a detailed discussion.    This unique book is written for developers who want quick, clean, solutions to frequent problems--or simply EJB development ideas. Easy to find recipes range from the common to the advanced. How do you secure a message-driven bean  How do you generate EJB code  How can you improve your entity bean persistence layer ",
+    "status": "PUBLISH",
+    "authors": ["Benjamin G. Sullins", "Mark B. Whipple"],
+    "categories": ["Java"]
+}, {
+    "_id": 306,
+    "title": "GWT in Action, Second Edition",
+    "isbn": "1935182846",
+    "pageCount": 0,
+    "publishedDate": {
+        "$date": "2013-01-21T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/tacy.jpg",
+    "status": "PUBLISH",
+    "authors": ["Adam Tacy", "Robert Hanson", "Jason Essington", "", "Anna Tökke"],
+    "categories": ["Java"]
+}, {
+    "_id": 307,
+    "title": "JUnit in Action, Second Edition",
+    "isbn": "1935182021",
+    "pageCount": 504,
+    "publishedDate": {
+        "$date": "2010-07-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/tahchiev.jpg",
+    "shortDescription": "JUnit in Action, Second Edition is an up-to-date guide to unit testing Java applications (including Java EE applications) using the JUnit framework and its extensions. This book provides techniques for solving real-world problems such as testing AJAX applications, using mocks to achieve testing isolation, in-container testing for Java EE and database applications, and test automation.",
+    "longDescription": "When JUnit was first introduced a decade ago by Kent Beck and Erich Gamma, the Agile movement was in its infancy, \"Test Driven Development\" was unknown, and unit testing was just starting to move into the typical developer's vocabulary. Today, most developers acknowledge the benefits of unit testing and rely on the increasingly sophisticated tools now available. The recently released JUnit 4.5 represents the state of the art in unit testing frameworks, and provides significant new features to improve the Java development process.    JUnit in Action, Second Edition is an up-to-date guide to unit testing Java applications (including Java EE applications) using the JUnit framework and its extensions. This book provides techniques for solving real-world problems such as testing AJAX applications, using mocks to achieve testing isolation, in-container testing for Java EE and database applications, and test automation.    Written to help readers exploit JUnit 4.5, the book covers recent innovations such as the new annotations that simplify test writing, improved exception handling, and the new assertion methods. You'll also discover how to use JUnit extensions to test new application styles and frameworks including Ajax, OSGi, and HTML-based presentation layers.    Using a sample-driven approach, various unit testing strategies are covered, such as how to unit test EJBs, database applications, and web applications. Also addressed are testing strategies using freely available open source frameworks and tools, and how to unit test in isolation with Mock Objects. The book will also bring you up to speed on the latest thinking in TDD, BDD, Continuous Integration, and other practices related to unit testing.  ",
+    "status": "PUBLISH",
+    "authors": ["Petar Tahchiev", "Felipe Leme", "Vincent Massol", "", "Gary Gregory"],
+    "categories": ["Java"]
+}, {
+    "_id": 308,
+    "title": "Bitter Java",
+    "isbn": "193011043X",
+    "pageCount": 368,
+    "publishedDate": {
+        "$date": "2002-03-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/tate.jpg",
+    "longDescription": "It is a well-known fact that most software projects fail. Drawing important lessons from common failures is the goal of Bitter Java.    Reusing design patterns is not enough for success: patterns are like partial maps of dangerous terrain. They help, but don't prevent you from getting lost. Bitter Java teaches you how to recognize when you are lost, and how to get back on the right path. It illustrates common pitfalls of Java programming through code examples; it then refactors the code and explains why the new solutions are safe.    This book is a systematic account of common server-side Java programming mistakes, their causes and solutions. It covers antipatterns for base Java and J2EE concepts such as Servlets, JSPs, EJBs, enterprise connection models, and scalability. If you are an intermediate Java programmer, analyst or architect eager to avoid the bitter experiences of others, this book is for you.",
+    "status": "PUBLISH",
+    "authors": ["Bruce A. Tate"],
+    "categories": ["Java", "Business", "Client Server", ""]
+}, {
+    "_id": 309,
+    "title": "Bitter EJB",
+    "isbn": "1930110952",
+    "pageCount": 440,
+    "publishedDate": {
+        "$date": "2003-05-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/tate2.jpg",
+    "shortDescription": "\"The book's informal tone offers a refreshing change from the ubiquitous preachiness of other EJB tomes. It's pragmatic and doesn't tap dance around the fact that EJBs are often used incorrectly in enterprise development... it's an effective way to avoid the potholes that have forced developers off track in the past.\" -- Software Development Magazine",
+    "longDescription": "In Bitter EJB, Bruce Tate and his co-authors continue the entertaining and engaging writing style of relating true-life adventure sport experiences to antipattern themes established in Bruce's first book, the best selling Bitter Java.    This more advanced book explores antipatterns, or common traps, within the context of EJB technology.    EJB is experiencing the mixture of practical success and controversy that accompanies a new and quickly-changing framework. Bitter EJB takes the swirling EJB controversies head-on. It offers a practical approach to design: how to become a better programmer by studying problems and solutions to the most important problems surrounding the technology.    The flip side of design patterns, antipatterns, are a fun and interesting way to take EJB expertise to the next level. The book covers many different aspects of EJB, from transactions to persistence to messaging, as well as performance and testing.    Bitter EJB will teach programmers to do the following:    Identify EJB persistence strategies  Choose Entity bean alternatives  Use EJB message driven beans  Know when to apply or avoid stateful session beans  Create efficient build strategies with XDoclet, Ant and JUnit  Automate performance tuning",
+    "status": "PUBLISH",
+    "authors": ["Bruce Tate", "Mike Clark", "Bob Lee", "Patrick Linskey"],
+    "categories": ["Java", "Internet"]
+}, {
+    "_id": 310,
+    "title": "Spring Batch in Action",
+    "isbn": "1935182951",
+    "pageCount": 0,
+    "publishedDate": {
+        "$date": "2011-10-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/templier.jpg",
+    "status": "PUBLISH",
+    "authors": ["Arnaud Cogoluegnes", "Thierry Templier", "Gary Gregory", "Olivier Bazoud"],
+    "categories": ["In Action"]
+}, {
+    "_id": 312,
+    "title": "JDK 1.4 Tutorial",
+    "isbn": "1930110456",
+    "pageCount": 408,
+    "publishedDate": {
+        "$date": "2002-03-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/travis.jpg",
+    "longDescription": "Java is a success. It is now used across the programming landscape, from embedded devices to enterprise-class distributed systems. As Java's use increases, the pressure grows for it to expand to meet the diverse needs of the developer communities. The latest edition of Java, JDK 1.4 (or J2SE 1.4), includes new features like a new I/O system, a persistent preferences framework, Java Web Start, and Java regular expressions.    This book lets experienced developers as well as novices learn JDK 1.4's new features quickly. It provides a clear exposition of the important new topics with plenty of well documented code. All the examples are substantial and solve real-world problems but aren't cluttered with unnecessary details. The new features are covered in a comprehensive and matter-of-fact way without digressions into philosophy or theory. After reading this book, a developer will be able to use Java's new features with confidence and skill.",
+    "status": "PUBLISH",
+    "authors": ["Gregory M. Travis"],
+    "categories": ["Java", "Internet"]
+}, {
+    "_id": 313,
+    "title": "iPhone and iPad in Action",
+    "isbn": "1935182587",
+    "pageCount": 450,
+    "publishedDate": {
+        "$date": "2010-08-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/trebitowski.jpg",
+    "shortDescription": "Using many examples, the book covers core features like accelerometers, GPS, the Address Book, and much more. Along the way, you'll learn to leverage your iPhone skills to build attractive iPad apps. This is a revised and expanded edition of the original iPhone in Action.",
+    "longDescription": "This hands-on tutorial will help you master iPhone/iPad development using the native iPhone SDK. It guides you from setting up dev tools like Xcode and Interface Builder, through coding your first app, all the way to selling in the App Store.    Using many examples, the book covers core features like accelerometers, GPS, the Address Book, and much more. Along the way, you'll learn to leverage your iPhone skills to build attractive iPad apps. This is a revised and expanded edition of the original iPhone in Action.",
+    "status": "PUBLISH",
+    "authors": ["Brandon Trebitowski", "Christopher Allen", "", "Shannon Appelcline"],
+    "categories": ["Mobile Technology"]
+}, {
+    "_id": 314,
+    "title": "SQL Server 2005 Reporting Services in Action",
+    "isbn": "1932394761",
+    "pageCount": 600,
+    "publishedDate": {
+        "$date": "2006-11-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/updegraff.jpg",
+    "longDescription": "Reports are the lifeline of business, so a good reporting environment is a big deal. With a powerful tool like Microsoft Reporting Services, .NET developers can add reporting to any type of application, regardless of its target platform or development language. Greatly improved for SQL Server 2005, Reporting Services now provides tighter integration with SQL Server, improved developer tools, and an expanded array of options to empower end users.    SQL Server 2005 Reporting Services in Action helps you build and manage flexible reporting solutions and develop report-enabled applications. In this clear, well-illustrated book, you  ll follow a report from creation to publication. Along the way you  ll explore flexible delivery options like web-based, on-demand, and subscribed reports   complete with cool new features like direct printing and client-side sorting.    For applications that require custom reporting, you'll learn to define reports with RDL and push them to the Report Server using the Report Manager Web Service API. You  ll also see how to write server extensions to expand the range of data processing and report delivery options.    Written for developers with a solid foundation in .NET and SQL Server.",
+    "status": "PUBLISH",
+    "authors": ["Bret Updegraff"],
+    "categories": ["Microsoft"]
+}, {
+    "_id": 315,
+    "title": "Ten Years of UserFriendly.Org",
+    "isbn": "1935182129",
+    "pageCount": 1096,
+    "publishedDate": {
+        "$date": "2008-12-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/userfriendly.jpg",
+    "shortDescription": "This unique collector's volume includes every daily strip from November 17, 1997 to November 16, 2007. Many of the cartoons are annotated with comments from UserFriendly artist and creator JD    Illiad    Frazer.",
+    "longDescription": "For over 10 years, UserFriendly has been entertaining geeks of all stripes with its daily dose of humor, social commentary, and occasionally absurd observations about the world of technology. Loyal UserFriendly fans   UFies   have been asking for a Big Book of UserFriendly that assembles the first decade of UserFriendly   almost 4,000 individual comics   in a single volume. Manning has teamed up with the folks at UserFriendly.Org to bring you exactly that!    This unique collector's volume includes every daily strip from November 17, 1997 to November 16, 2007. Many of the cartoons are annotated with comments from UserFriendly artist and creator JD    Illiad    Frazer.",
+    "status": "PUBLISH",
+    "authors": ["JD \"Illiad\" Frazer"],
+    "categories": ["Miscellaneous"]
+}, {
+    "_id": 316,
+    "title": "Graphics Programming with Perl",
+    "isbn": "1930110022",
+    "pageCount": 328,
+    "publishedDate": {
+        "$date": "2002-05-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/verbruggen.jpg",
+    "longDescription": "An increasing number of tasks in application programming and web design requires creating and manipulating graphics. Perl is a powerful and flexible language that is not commonly associated with graphics programming. The speed of developing in Perl plus the large number of freely available Perl graphics modules, make it an excellent option for the rapid development of graphics applications.    Graphics Programming with Perl is a guide to the graphics and imaging modules and tools available to the Perl programmer. It covers subjects ranging from drawing your own pictures and dynamic graphics for web pages to rendering three-dimensional scenes and manipulating individual image pixels. The text is liberally illustrated with example code and programs that show how to achieve common, and sometimes not so common, graphics programming tasks. For the even less common tasks, the book shows you how to write your own modules.",
+    "status": "PUBLISH",
+    "authors": ["Martien Verbruggen"],
+    "categories": ["Computer Graphics", "Perl"]
+}, {
+    "_id": 317,
+    "title": "RabbitMQ in Action",
+    "isbn": "1935182978",
+    "pageCount": 0,
+    "publishedDate": {
+        "$date": "2012-04-20T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/videla.jpg",
+    "status": "PUBLISH",
+    "authors": ["Alvaro Videla", "Jason J.W. Williams"],
+    "categories": ["Software Engineering"]
+}, {
+    "_id": 318,
+    "title": "XDoclet in Action",
+    "isbn": "1932394052",
+    "pageCount": 624,
+    "publishedDate": {
+        "$date": "2003-11-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/walls.jpg",
+    "longDescription": "Are you tired of writing the same Java code, over and over again  XDoclet will take the burden of repetitive development tasks off your shoulders by automating them. XDoclet is a metadata-driven, code generation engine for Java. Starting from simple JavaDoc-style comments, it generates deployment descriptors, interfaces, framework classes and other utility classes your project requires.    XDoclet in Action is an easy to read introduction to XDoclet and its uses. It is a resource on code generation with this popular open source tool. With many short code examples and a full-scale J2EE example, the book shows you how to use XDoclet with EJBs, Servlets, JMX, and other technologies. You'll also learn how to customize XDoclet beyond its out-of-the-box capabilities to generate code specific to your application.    With this book you will learn how to write less code, how to keep your application components in sync, and how to keep your deployment, interface, utility and other information all in one place.",
+    "status": "PUBLISH",
+    "authors": ["Craig Walls", "Norman Richards"],
+    "categories": ["XML", "Java"]
+}, {
+    "_id": 319,
+    "title": "Spring in Action",
+    "isbn": "1932394354",
+    "pageCount": 472,
+    "publishedDate": {
+        "$date": "2005-02-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/walls2.jpg",
+    "shortDescription": "Spring in Action introduces you to the ideas behind Spring and then quickly launches into a hands-on exploration of the framework. Combining short code snippets and an ongoing example developed throughout the book, it shows you how to build simple and efficient J2EE applications. You will see how to solve persistence problems using the leading open-source tools, and also how to integrate your application with the most popular web frameworks. You will learn how to use Spring to manage the bulk of your infrastructure code so you can focus on what really matters     your critical business needs.",
+    "longDescription": "Spring is a fresh breeze blowing over the Java landscape. Based on a design principle called Inversion of Control, Spring is a powerful but lightweight J2EE framework that does not require the use of EJBs. Spring greatly reduces the complexity of using interfaces, and speeds and simplifies your application development. You get the power and robust features of EJB and get to keep the simplicity of the non-enterprise JavaBean.    Spring in Action introduces you to the ideas behind Spring and then quickly launches into a hands-on exploration of the framework. Combining short code snippets and an ongoing example developed throughout the book, it shows you how to build simple and efficient J2EE applications. You will see how to solve persistence problems using the leading open-source tools, and also how to integrate your application with the most popular web frameworks. You will learn how to use Spring to manage the bulk of your infrastructure code so you can focus on what really matters     your critical business needs.",
+    "status": "PUBLISH",
+    "authors": ["Craig Walls", "Ryan Breidenbach"],
+    "categories": ["Java"]
+}, {
+    "_id": 320,
+    "title": "Spring in Action, Second Edition",
+    "isbn": "1933988134",
+    "pageCount": 768,
+    "publishedDate": {
+        "$date": "2007-08-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/walls3.jpg",
+    "longDescription": "Spring is a fresh breeze blowing over the Java landscape. Based on the principles of dependency injection, interface-oriented design, and aspect-oriented programming, Spring combines enterprise application power with the simplicity of plain-old Java objects (POJOs).    In this second edition, Spring in Action has been completely updated to cover the exciting new features of Spring 2.0. The book begins by introducing you to the core concepts of Spring and then quickly launches into a hands-on exploration of the framework. Combining short code snippets and an ongoing example developed throughout the book, it shows you how to build simple and efficient J2EE applications. You will see how to solve persistence problems, handle asynchronous messaging, create and consume remote services, build web applications, and integrate with most popular web frameworks. You will learn how to use Spring to write simpler, easier to maintain code so that you can focus on what really matters--your critical business needs.",
+    "status": "PUBLISH",
+    "authors": ["Craig Walls with Ryan Breidenbach"],
+    "categories": ["Java"]
+}, {
+    "_id": 321,
+    "title": "Spring in Action, Third Edition",
+    "isbn": "1935182358",
+    "pageCount": 424,
+    "publishedDate": {
+        "$date": "2011-06-21T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/walls4.jpg",
+    "shortDescription": "Spring in Action, Third Edition has been completely revised to reflect the latest features, tools, practices Spring offers to java developers. It begins by introducing the core concepts of Spring and then quickly launches into a hands-on exploration of the framework. Combining short code snippets and an ongoing example developed throughout the book, it shows you how to build simple and efficient J2EE applications.",
+    "longDescription": "A few years back, Spring arrived as is a fresh breeze blowing over the Java landscape. Based on the principles of dependency injection, interface-oriented design, and aspect-oriented programming, Spring combines enterprise application power with the simplicity of plain-old Java objects (POJOs). Now, Spring has grown into a full suite of technologies, including dedicated projects for integration, OSGI-based development, and more.    Spring in Action, Third Edition has been completely revised to reflect the latest features, tools, practices Spring offers to java developers. It begins by introducing the core concepts of Spring and then quickly launches into a hands-on exploration of the framework. Combining short code snippets and an ongoing example developed throughout the book, it shows you how to build simple and efficient J2EE applications.    Inside, you'll see how to:    Solve persistence problems  Handle asynchronous messaging  Create and consume remote services  Build web applications  Integrate with most popular web frameworks  In short, you'll learn how to use Spring to write simpler, easier to maintain code so that you can focus on what really matters   your critical business needs.    The revised Third Edition explores the core Spring Framework issues, as well as the latest updates to other Spring portfolio projects such as Spring WebFlow and Spring Security. The result is a book that's both broader and deeper than previous editions. You'll learn the full range of new features available with Spring 3, including:    More annotation-oriented options to reduce the amount of XML configuration  Full-featured support for REST  A new Spring Expression Language (SpEL) that makes short work of wiring complex values.  Examples that illustrate the current best practices developed in the Spring community.  This book assumes that you know your way around Java, but no previous experience with Spring is required.",
+    "status": "PUBLISH",
+    "authors": ["Craig Walls"],
+    "categories": ["Java"]
+}, {
+    "_id": 325,
+    "title": "Spring in Practice",
+    "isbn": "1935182056",
+    "pageCount": 600,
+    "publishedDate": {
+        "$date": "2013-05-09T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/wheeler.jpg",
+    "shortDescription": "Spring in Practice diverges from other cookbooks because it presents the background you need to understand the domain in which a solution applies before it offers the specific steps to solve the problem. You're never left with the feeling that you understand the answer, but find the question irrelevant. You can put the book to immediate use even if you don't have deep knowledge of every part of Spring Framework.",
+    "longDescription": "For enterprise Java developers, Spring Framework provides remarkable improvements in developer productivity, runtime performance, and overall application quality. Its unique blend of a complete, lightweight container that allows you to build a complex application from loosely-coupled POJOs and a set of easily understood abstractions that simplify construction, testing, and deployment make Spring both powerful and easy-to-use   a hard-to-beat combination. With this power comes the potential for a wide range of uses in both common and not-so-common scenarios. That's where Spring in Practice comes in.    Unlike the many books that teach you what Spring is, Spring in Practice shows you how to tackle the challenges you face when you build Spring-based applications. The book empowers software developers to solve concrete business problems \"the Spring way\" by mapping application-level issues to Spring-centric solutions.    Spring in Practice diverges from other cookbooks because it presents the background you need to understand the domain in which a solution applies before it offers the specific steps to solve the problem. You're never left with the feeling that you understand the answer, but find the question irrelevant. You can put the book to immediate use even if you don't have deep knowledge of every part of Spring Framework.    The book divides into three main parts. In Part 1, you'll get a rapid overview of Spring Framework   enough to get you started if you're new and a great refresher for readers who already have a few Spring cycles. Part 2 provides techniques that are likely to be useful no matter what type of application you're building. You'll find discussions of topics like user accounts, security, site navigation, and application diagnosis.    Part 3 provides domain-specific recipes. Here, you'll find practical solutions to realistic and interesting business problems. For example, this part discusses Spring-based approaches for ecommerce, lead generation, and CRM.    There are several recurring themes throughout Spring in Practice, including Spring MVC, Hibernate, and transactions. Each recipe is an opportunity to highlight something new or interesting about Spring, and to focus on that concept in detail.    This book assumes you have a good foundation in Java and Java EE. Prior exposure to Spring Framework is helpful, but not required.",
+    "status": "PUBLISH",
+    "authors": ["Willie Wheeler with Joshua White"],
+    "categories": ["Java", "Software Development"]
+}, {
+    "_id": 327,
+    "title": "Java 2 Micro Edition",
+    "isbn": "1930110332",
+    "pageCount": 504,
+    "publishedDate": {
+        "$date": "2002-03-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/white.jpg",
+    "longDescription": "Java2, Micro Edition (J2ME) is a technology defined by many specifications. These specifications help J2ME address the diverse needs of this wide spectrum of consumer products. This guide describes the architecture of J2ME and demonstrates the various specifications for programming Java applications.    Through the use of a tutorial application and various programming examples, the common elements of most applications, namely user interface, event handling, data storage, networking, and input/output are examined. Also covered are design considerations when building software for resource-constrained devices as well as J2ME competition and associated technologies in these devices.    Tutorial and API example application source code downloads will be available from this site.",
+    "status": "PUBLISH",
+    "authors": ["James P. White", "David A. Hemphill"],
+    "categories": ["Java", "Internet"]
+}, {
+    "_id": 328,
+    "title": "SharePoint 2010 Workflows in Action",
+    "isbn": "1935182714",
+    "pageCount": 360,
+    "publishedDate": {
+        "$date": "2011-02-07T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/wicklund.jpg",
+    "shortDescription": "SharePoint 2010 Workflows in Action is a hands-on guide for workflow application development in SharePoint. Power users are introduced to the simplicity of building and integrating workflows using SharePoint Designer, Visio, InfoPath, and Office. Developers will learn to build custom processes and use external data sources. They will learn about state machine workflows, ASP.NET forms, event handlers, and much more. This book requires no previous experience with workflow app development. ",
+    "longDescription": "You can use SharePoint 2010 workflows to transform a set of business processes into working SharePoint applications. For that task, a power user gets prepackaged workflows, wizards, and design tools, and a programmer benefits from Visual Studio to handle advanced workflow requirements.    SharePoint 2010 Workflows in Action is a hands-on guide for workflow application development in SharePoint. Power users are introduced to the simplicity of building and integrating workflows using SharePoint Designer, Visio, InfoPath, and Office. Developers will learn to build custom processes and use external data sources. They will learn about state machine workflows, ASP.NET forms, event handlers, and much more. This book requires no previous experience with workflow app development. ",
+    "status": "PUBLISH",
+    "authors": ["Phil Wicklund"],
+    "categories": ["Microsoft .NET"]
+}, {
+    "_id": 329,
+    "title": "SharePoint 2010 Web Parts in Action",
+    "isbn": "1935182773",
+    "pageCount": 448,
+    "publishedDate": {
+        "$date": "2011-04-24T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/wilen.jpg",
+    "shortDescription": "SharePoint 2010 Web Parts in Action is a comprehensive guide to deploying, customizing, and creating Web Parts. Countless examples walk you through everything from design, to development, deployment, troubleshooting, and upgrading. Because Web Parts are ASP.NET controls, you'll learn to use Visual Studio 2010 to extend existing Web Parts and to build custom components from scratch. ",
+    "longDescription": "If you look at a SharePoint application you'll find that most of its active components are Web Parts. SharePoint 2010 includes dozens of prebuilt Web Parts that you can use. It also provides an API that lets you build custom Web Parts using C# or VB.NET.    SharePoint 2010 Web Parts in Action is a comprehensive guide to deploying, customizing, and creating Web Parts. Countless examples walk you through everything from design, to development, deployment, troubleshooting, and upgrading. Because Web Parts are ASP.NET controls, you'll learn to use Visual Studio 2010 to extend existing Web Parts and to build custom components from scratch. ",
+    "status": "PUBLISH",
+    "authors": ["Wictor Wilén"],
+    "categories": ["Microsoft .NET"]
+}, {
+    "_id": 330,
+    "title": "C++ Concurrency in Action",
+    "isbn": "1933988770",
+    "pageCount": 325,
+    "publishedDate": {
+        "$date": "2012-02-24T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/williams.jpg",
+    "shortDescription": "C++ Concurrency in Action is the first book to show you how to take advantage of the new C++ Standard and TR2 to write robust multi-threaded applications in C++.",
+    "longDescription": "It seems like we're all being asked to multi-task more than ever   and our computers are no exception to this trend. Multiple processors with multiple cores running multiple threads is quickly becoming the norm. C++ developers will have to master the principles, techniques, and new language features supporting concurrency to stay ahead of the curve.    With the new C++ Standard and Technical Report 2 (TR2), multi-threading is coming to C++ in a big way. There is a new memory model with support for multiple threads, along with a new multi-threading support library featuring low-level atomic operations, as well as basic thread launching and synchronization facilities. TR2 will provide higher-level synchronization facilities that allow for a much greater level of abstraction, and make programming multi-threaded applications simpler and safer.    C++ Concurrency in Action is the first book to show you how to take advantage of the new C++ Standard and TR2 to write robust multi-threaded applications in C++.    As a guide and reference to the new concurrency features in the upcoming C++ Standard and TR, this book is invaluable for existing programmers familiar with writing multi-threaded code in C++ using platform-specific APIs, or in other languages, as well as C++ programmers who have never written multi-threaded code before.    If you're a programmer accustomed to writing single-threaded applications, C++ Concurrency in Action will show you how to write your new parallel algorithm in C++. You'll learn to avoid many of the pitfalls associated with writing multi-threaded applications. You can also use this book to quickly transfer your platform-specific knowledge to the new Standard C++ threading library, enabling you to use a single API on both systems and simplify your code.",
+    "status": "PUBLISH",
+    "authors": ["Anthony Williams"],
+    "categories": ["Microsoft .NET"]
+}, {
+    "_id": 331,
+    "title": "Java Servlets by Example",
+    "isbn": "188477766X",
+    "pageCount": 550,
+    "publishedDate": {
+        "$date": "2002-12-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/williamson.jpg",
+    "longDescription": "Although CGI scripts provide 80% of today's server side processing, they are slow, inefficient, and memory-hungry. A new species is evolving to take their place, one which is lean, fast, portable, and easy to maintain: Java servlets.    Servlets are not merely an alternative to CGI, for they can do much more. Servlets have opened the door to a world of client/server applications that would have been too difficult or too time-consuming to consider before.    Java Servlets: By Example takes the reader into the world of servlets, moving example by example from the simple to the complex. An early chapter explains the simple HTML form processing through servlets. A later chapter shows how to connect a Java applet to a servlet, which is itself connected to a database.    Java Servlets: By Example is full of real-world, ready-to-run example code. Each chapter deals with a new problem and takes the reader through a series of servlet-based solutions. However, the book is detailed enough that it may also serve as a reference for the developer.",
+    "status": "PUBLISH",
+    "authors": ["Alan R. Williamson"],
+    "categories": ["Java", "Internet"]
+}, {
+    "_id": 332,
+    "title": "XML Programming with VB and ASP",
+    "isbn": "1884777872",
+    "pageCount": 320,
+    "publishedDate": {
+        "$date": "1999-12-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/wilson.jpg",
+    "longDescription": "Here's a book that shows you when and how to use XML from both a programming and business perspective. Laden with source code, XML Programming with VB and ASP helps you build solutions that are flexible, future-proof, and self-describing. It will help you apply XML concepts between the client and the server and the server and data objects or data services.    Finally, you have everything a VB and ASP developer needs to keep up with the explosive growth of XML.",
+    "status": "PUBLISH",
+    "authors": ["Mark Wilson", "Tracey Wilson"],
+    "categories": ["XML", "Internet"]
+}, {
+    "_id": 334,
+    "title": "Oracle8i Database Administration",
+    "isbn": "1884777783",
+    "pageCount": 543,
+    "publishedDate": {
+        "$date": "1999-11-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/yuhanna.jpg",
+    "longDescription": "Databases are growing larger, and the use of distributed databases is on the rise. Oracle8i Database Administration addresses some of the most common yet complex issues that are faced by DBAs around the world.    Oracle has the largest market share in Database Management software and is the world's second largest software company. This book is designed for for Oracle Database administrators and others who are involved in planning, programming, administration, and implementation of Oracle8 Databases.    Although this book targets intermediate and advanced database administrators, it can also be an invaluable resource to entry-level DBAs, designers and developers, project managers, system administrators, data warehousing professionals or anyone interested in Oracle.    Oracle8i Database Administration uses a Q&A approach that provides in-depth technical solutions. The questions in this book have been compiled from many sources including Oracle forums, the Internet, and the author's personal experiences. The book also examines features that are new in Oracle8.",
+    "status": "PUBLISH",
+    "authors": ["Noel Yuhanna"],
+    "categories": ["Client-Server", "Networking"]
+}, {
+    "_id": 335,
+    "title": "The Engaging Web",
+    "isbn": "9781935182078",
+    "pageCount": 325,
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/zichermann.jpg",
+    "shortDescription": "The Engaging Web: How Fun and Games Improve Your Site shows web developers how to incorporate games into websites. This book will help you decode the possibilities and provide a series of proven and tangible strategies that any web developer, producer, or product manager can use to implement games in their website. Whether you're looking to make games the centerpiece of your site, an added-value feature, or you just want to engage and excite your users, The Engaging Web will help you develop a strategy that harnesses the power of games.",
+    "longDescription": "Games are the fastest-growing and stickiest form of entertainment. For a website, games offer powerful potential to acquire new users, build engagement, and enhance revenue. Implementing games in a website can be complicated, though. There are hundreds of technical and process options to choose from, and the landscape is constantly shifting.    The Engaging Web: How Fun and Games Improve Your Site shows web developers how to incorporate games into websites. This book will help you decode the possibilities and provide a series of proven and tangible strategies that any web developer, producer, or product manager can use to implement games in their website. Whether you're looking to make games the centerpiece of your site, an added-value feature, or you just want to engage and excite your users, The Engaging Web will help you develop a strategy that harnesses the power of games.    Through this book, you will take away an in-depth understanding of the current state of the art in game and web planning and integration methodologies. It begins by presenting an understanding of basic \"funware\" principles - or how non-designers can use games to further business objectives. Powerful funware designs like frequent flyer programs, casino games, and leaderboard/ladders will be deconstructed and componentized so that you can leverage their strengths for your specific site and business objectives.    You'll then investigate the three basic recipes for melding games with the web, and look at specific examples of integration approaches that have been successfully deployed across various industries. Finally, you'll examine social networking considerations and look at code examples.    Whether you're building a business or consumer site, games and funware design can be a powerful weapon in your battle for user engagement, stickiness, and revenue. The Engaging Web is the field guide that gives you the best tactics, techniques, and strategies for winning the war.    WHAT'S INSIDE        * Understanding funware and game design      * Principal funware designs: casinos frequent flyer programs, leaderboards      * Matching games to your business objectives      * Recipes for implementing games on your site      * Games, social networking and you      * Code examples",
+    "status": "MEAP",
+    "authors": ["Gabe Zichermann", "Chris Cunningham"],
+    "categories": ["Web Development"]
+}, {
+    "_id": 512,
+    "title": "Enterprise OSGi In Action",
+    "isbn": "1617290130",
+    "pageCount": 0,
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/cummins.jpg",
+    "status": "PUBLISH",
+    "authors": ["Holly Cummins", "Timothy Ward"],
+    "categories": []
+}, {
+    "_id": 513,
+    "title": "Ext JS in Action, Second Edition",
+    "isbn": "1617290327",
+    "pageCount": 0,
+    "publishedDate": {
+        "$date": "2014-02-04T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/garcia3.jpg",
+    "status": "PUBLISH",
+    "authors": ["Jesus Garcia", "Grgur Grisogono", "", "Jacob K. Andresen"],
+    "categories": []
+}, {
+    "_id": 514,
+    "title": "Android in Action, Third Edition",
+    "isbn": "1617290505",
+    "pageCount": 0,
+    "publishedDate": {
+        "$date": "2011-11-15T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ableson3.jpg",
+    "status": "PUBLISH",
+    "authors": ["W. Frank Ableson", "Robi Sen", "Chris King", "C. Enrique Ortiz"],
+    "categories": []
+}, {
+    "_id": 515,
+    "title": "Arduino in Action",
+    "isbn": "1617290246",
+    "pageCount": 300,
+    "publishedDate": {
+        "$date": "2013-05-30T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mevans.jpg",
+    "shortDescription": "Arduino in Action is a hands-on guide to prototyping and building electronics using the Arduino platform. Suitable for beginners and advanced users, this easy to follow book begins with the basics and systematically guides you through projects ranging from your first blinking LED through connecting Arduino to devices like game controllers or your iPhone.",
+    "longDescription": "Whether you want to build an autonomous robot, automate your home electronics, or just automatically tweet when the bread is ready, you can do it with Arduino. Arduino is an inexpensive, easy-to-use, open source hardware and software platform. It supports a mind-boggling array of sensors and components that you can use to build nearly anything you can imagine.\n\nArduino in Action is a hands-on guide to prototyping and building electronics using the Arduino platform. Suitable for beginners and advanced users, this easy to follow book begins with the basics and systematically guides you through projects ranging from your first blinking LED through connecting Arduino to devices like game controllers or your iPhone.\n\nYou'll start at the very beginning: unpacking your first Arduino board, connecting it to a PC, and using the programming environment to make something happen. You'll follow progressively more complex examples as you connect your Arduino to motors, LCD displays, Wi-Fi, GPS, and Bluetooth. You'll explore a variety of input output sensors, including ultrasound, infrared, and light, along with how to use them for tasks like robotic obstacle avoidance.",
+    "status": "PUBLISH",
+    "authors": ["Martin Evans", "Joshua Noble", "", "Jordan Hochenbaum"],
+    "categories": []
+}, {
+    "_id": 516,
+    "title": "Node.js in Action",
+    "isbn": "1617290572",
+    "pageCount": 300,
+    "publishedDate": {
+        "$date": "2013-10-15T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/cantelon.jpg",
+    "shortDescription": "Node.js in Action is an example-driven tutorial that starts at square one and guides you through all the features, techniques, and concepts you'll need to build production-quality Node applications. You'll start by learning how to set up your Node development environment, including loading the community-created extensions. Next, you'll run several simple demonstration programs where you'll learn the basics of a few common types of Node applications. Then you'll dive into asynchronous programming, a model Node leverages to lessen application bottlenecks.",
+    "longDescription": "JavaScript on the server? Yep. Node.js is an elegant server-side JavaScript development environment perfect for scalable, high-performance web applications. With Node you access HTTP and TCP/IP functionality through a minimalist server-side Javascript interface. It supports an asynchronous programming model that enables the web server to more easily do more than one thing at a time, a key requirement for real-time applications such as chat, online games, and live statistics. And since it's JavaScript, you'll use the same language throughout your entire application.\n\nNode.js in Action is an example-driven tutorial that starts at square one and guides you through all the features, techniques, and concepts you'll need to build production-quality Node applications. You'll start by learning how to set up your Node development environment, including loading the community-created extensions. Next, you'll run several simple demonstration programs where you'll learn the basics of a few common types of Node applications. Then you'll dive into asynchronous programming, a model Node leverages to lessen application bottlenecks.\n\nWith the basics under your belt, you're ready to start building serious web applications using Node's HTTP API. You'll explore data storage, application deployment, and output templating, and you'll discover community frameworks that make web development easier and faster. Along the way, you'll learn to interact with the filesystem and to create non-HTTP applications, such as TCP/IP servers and command-line tools.\n\nMuch of the Node ecosystem is open source, so this book will show you how the community works and how you can contribute. You'll learn about the NPM Repository, where most community extensions reside, and you'll learn how to publish your own extensions. In addition, the book outlines online resources for getting help with any stumbling blocks you run into during your journey as a Node developer.\nWHAT'S INSIDE",
+    "status": "PUBLISH",
+    "authors": ["Mike Cantelon", "Marc Harter", "T.J. Holowaychuk", "", "Nathan Rajlich"],
+    "categories": ["Web Development"]
+}, {
+    "_id": 517,
+    "title": "Third-Party JavaScript ",
+    "isbn": "1617290548",
+    "pageCount": 0,
+    "publishedDate": {
+        "$date": "2013-03-11T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/vinegar.jpg",
+    "status": "PUBLISH",
+    "authors": ["Ben Vinegar", "Anton Kovalyov"],
+    "categories": []
+}
+]
